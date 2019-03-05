@@ -1,6 +1,6 @@
 # Assignment 6: Prolog (150 points)
 
-## Due by Friday 6/8 23:59:59
+## Due by Friday 3/15 1pm
 
 ## Installing Prolog
 
