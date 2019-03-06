@@ -6,7 +6,7 @@ NAME=prolog
 #####################################################################################################
 
 test:
-	(cd src; swipl -s test.pl)
+	(cd src; gprolog --consult-file test.pl)
 
 turnin:
 	rm -rf ./$(ASGN)-$(NAME).tgz
